@@ -4,7 +4,7 @@ namespace xenialdan\customui\elements;
 
 use Exception;
 use InvalidArgumentException;
-use pocketmine\Player;
+use pocketmine\player\Player;
 use xenialdan\customui\ButtonImage;
 
 class Button extends UIElement

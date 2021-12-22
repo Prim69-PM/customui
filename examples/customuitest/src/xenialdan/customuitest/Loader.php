@@ -2,7 +2,7 @@
 
 namespace xenialdan\customuitest;
 
-use pocketmine\Player;
+use pocketmine\player\Player;
 use pocketmine\plugin\PluginBase;
 use xenialdan\customui\API as UIAPI;
 use xenialdan\customui\elements\Button;

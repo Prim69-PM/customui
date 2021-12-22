@@ -3,7 +3,7 @@
 namespace xenialdan\customui\elements;
 
 use JsonSerializable;
-use pocketmine\Player;
+use pocketmine\player\Player;
 
 abstract class UIElement implements JsonSerializable
 {

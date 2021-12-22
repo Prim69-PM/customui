@@ -4,7 +4,7 @@ namespace xenialdan\customui\windows;
 
 use InvalidArgumentException;
 use pocketmine\form\FormValidationException;
-use pocketmine\Player;
+use pocketmine\player\Player;
 use xenialdan\customui\elements\Button;
 use xenialdan\customui\elements\Dropdown;
 use xenialdan\customui\elements\Input;
